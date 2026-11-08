@@ -7,4 +7,4 @@ The hardware is developed specifically for this project and forms the physical f
 
 For an overview of the project and the development process, see the blog post on wedge.at.
 
-See the repository root for general project information.
+See the repository root for general project information and licensing.
