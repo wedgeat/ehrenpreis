@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.7-1.fc44"
     },
-    "CreationDate": "2026-11-03T21:59:51+01:00"
+    "CreationDate": "2026-11-24T21:06:01+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "EHRENPREIS",
       "GUID": "45485245-4e50-4524-9549-532e6b696361",
-      "Revision": "A"
+      "Revision": "B"
     },
     "Size": {
       "X": 45.05,
